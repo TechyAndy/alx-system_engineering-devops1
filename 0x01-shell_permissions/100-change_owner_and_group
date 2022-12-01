@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo chown owner vicent, chgrp staff 
